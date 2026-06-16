@@ -32,7 +32,8 @@ Gəlir və məbləğ sütunlarının paylanması skewed idi — yəni bir neçə
 - Python (pandas, matplotlib)
 - Power BI — loan_grade slicer ilə interaktiv dashboard
 
-## Fayllar
-- `amazon_sales_analysis.ipynb` — tam analiz notebook-u
-- `data/Amazon Sale Report.csv` — orijinal fayl
-- `data/amazon_clean.csv` — təmizlənmiş fayl
+## Dataset
+- Mənbə: [Amazon Sale Report — Kaggle](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
+- 128,975 sifariş, 24 sütun
+- Hindistan Amazon platformasının satış datası (Mart–İyun 2022)
+- Orijinal fayl ölçüsü GitHub limitini keçdiyi üçün yüklənməyib, yuxarıdakı linkdən endirmək olar
